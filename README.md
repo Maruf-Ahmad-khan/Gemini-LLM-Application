@@ -40,14 +40,22 @@ powered by Gemini-1.5-Flash.
 👩‍💻 Tech Stack Highlights:
 
 Streamlit:
-Simplifies UI design for a user-friendly experience.
+
+Simplifies UI design
+for a user-friendly experience.
 
 Google Generative AI (Gemini):
-Drives the bot's conversational and image analysis abilities.
-Pillow: Handles image processing.
-Python: Because who doesn’t love Python for AI-driven apps?
+
+Drives the bot's conversational
+and image analysis abilities.
+
+Pillow:
+Handles image processing.
+Python:
+Because who doesn’t love Python for AI-driven apps?
 
 🤔 Why Did I Build This?
+
 I’ve always been fascinated by how AI 
 can make human lives easier and more interactive.
 Gemini Chatbot App is my step toward creating tools 
