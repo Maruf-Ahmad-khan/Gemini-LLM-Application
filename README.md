@@ -33,3 +33,18 @@ can make human lives easier and more interactive.
 Gemini Chatbot App is my step toward creating tools 
 that combine conversational AI with visual data processing.
 It’s more than a chatbot—it’s a companion for your curiosity!
+
+
+
+
+Another project Electric Price Prediction.
+This project, **Electric Car Price Prediction**,
+is a Streamlit-based web app that predicts the price
+of electric cars using a pre-trained machine learning model.
+Users input car features such as engine size, curb weight,
+horsepower, city MPG, and highway MPG.
+The app processes these inputs, passes them to a linear 
+regression model loaded from a pickle file, and predicts the car's price. 
+The modular design ensures scalability,
+with a clear separation of prediction logic and user interface.
+It’s an interactive tool that demonstrates the application of AI in pricing predictions.
