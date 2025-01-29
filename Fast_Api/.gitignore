@@ -1,0 +1,8 @@
+.DS_Store
+* .pyc
+__pychache__
+.env
+*.db
+.venv
+.vscode/
+*.png
